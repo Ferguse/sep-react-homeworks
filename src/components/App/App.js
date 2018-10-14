@@ -5,7 +5,7 @@ class App extends Component {
         return(
             <div className="App">
                 <p className="description">
-                    Миру-мир, студентам - beer.
+                    Миру-мир, студентам - beers.
                 </p>
             </div>
         );
